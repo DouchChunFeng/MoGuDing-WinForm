@@ -57,14 +57,9 @@
 ## 常见问题
 
 1. `打开无反应`
-
-检查exe文件目录有无Newtonsoft.Json.dll文件
-若没有请复制补全即可.
+- 检查exe文件目录有无Newtonsoft.Json.dll文件, 若没有请复制补全即可.
 
 2. `.Net FrameWork 初始化失败`
-
-安装[.Net FrameWork 4.0](https://www.microsoft.com/zh-cn/download/details.aspx?id=17718)
-或
-安装[.Net FrameWork 4.5+](https://www.microsoft.com/zh-CN/download/details.aspx?id=40779)
+- 安装[.Net FrameWork 4.0或其他更高的版本](https://www.microsoft.com/zh-cn/download/details.aspx?id=17718)
 
 ---

@@ -1,4 +1,4 @@
-<p align="center"><a href="https://raw.githubusercontent.com/DouchChunFeng/MoGuDing-WinForm/main/form.png" target="_blank"><img src="https://raw.githubusercontent.com/DouchChunFeng/MoGuDing-WinForm/main/form.png" width="400" alt="图片预览"></a></p>
+<p align="center"><img src="https://raw.githubusercontent.com/DouchChunFeng/MoGuDing-WinForm/main/form.png" width="400" alt="图片预览"></p>
 
 # 蘑菇丁/可视化自动打卡窗口
 - [功能](#gn)
@@ -39,6 +39,8 @@
 
 <a name="yl"></a>
 ## 依赖
+
+> **本程序使用VS2013编译**
 * [.Net FrameWork 4.0](https://referencesource.microsoft.com)
 * [Newtonsoft.Json](https://github.com/JamesNK/Newtonsoft.Json)
 
@@ -46,6 +48,7 @@
 ## 参考
 
 ### 本程序参考了以下内容
+
 > **Thanks For**
 * [咕咚咕哒](https://www.bilibili.com/video/BV1RS4y1d7t2)
 * [laradocs](https://github.com/laradocs/moguding-solution)

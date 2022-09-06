@@ -27,10 +27,6 @@
 <a name="yf"></a>
 ## 用法
 
-### 运行可执行文件
-
-> 注: 免安装
-
 1. 打开项目内文件夹: `gxy\gxy\bin\Debug\`
 2. 复制 `gxy.exe` 和 `Newtonsoft.Json.dll` 到其他位置运行或直接运行
 3. 点击添加项按钮添加用户
@@ -40,16 +36,13 @@
 <a name="yl"></a>
 ## 依赖
 
-> **本程序使用VS2013编译**
 * [.Net FrameWork 4.0](https://referencesource.microsoft.com)
 * [Newtonsoft.Json](https://github.com/JamesNK/Newtonsoft.Json)
+- 本程序使用VS2013编译
 
 <a name="ck"></a>
-## 参考
+## 参考与致谢
 
-### 本程序参考了以下内容
-
-> **Thanks For**
 * [咕咚咕哒](https://www.bilibili.com/video/BV1RS4y1d7t2)
 * [laradocs/moguding-solution](https://github.com/laradocs/moguding-solution)
 
@@ -58,6 +51,7 @@
 
 1. `打开无反应`
 - 检查exe文件目录有无Newtonsoft.Json.dll文件, 若没有请复制补全即可.
+
 
 2. `.Net FrameWork 初始化失败`
 - 安装[.Net FrameWork 4.0或其他更高的版本](https://www.microsoft.com/zh-cn/download/details.aspx?id=17718)

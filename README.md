@@ -55,4 +55,9 @@
 2. `.Net FrameWork 初始化失败`
 - 安装[.Net FrameWork 4.0或其他更高的版本](https://www.microsoft.com/zh-cn/download/details.aspx?id=17718)
 
+3. `为什么会产生三个txt文本`
+- UserData.txt -> 用于保存用户信息
+- UserData_Logs -> 用于保存日志信息
+- UserData_LoginCache.txt -> 用于保存用户登录信息
+
 ---

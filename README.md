@@ -1,4 +1,4 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+<p align="center"><a href="https://raw.githubusercontent.com/DouchChunFeng/MoGuDing-WinForm/main/form.png" target="_blank"><img src="https://raw.githubusercontent.com/DouchChunFeng/MoGuDing-WinForm/main/form.png" width="530" alt="图片预览"></a></p>
 
 # 蘑菇丁/可视化自动打卡窗口
 - [功能](#gn)

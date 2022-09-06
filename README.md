@@ -51,7 +51,7 @@
 
 > **Thanks For**
 * [咕咚咕哒](https://www.bilibili.com/video/BV1RS4y1d7t2)
-* [laradocs](https://github.com/laradocs/moguding-solution)
+* [laradocs/moguding-solution](https://github.com/laradocs/moguding-solution)
 
 <a name="cjwt"></a>
 ## 常见问题

@@ -38,7 +38,7 @@
 
 * [.Net FrameWork 4.0](https://referencesource.microsoft.com)
 * [Newtonsoft.Json](https://github.com/JamesNK/Newtonsoft.Json)
-- 本程序使用VS2013编译
+* 本程序使用VS2013编译
 
 <a name="ck"></a>
 ## 参考与致谢
@@ -51,7 +51,6 @@
 
 1. `打开无反应`
 - 检查exe文件目录有无Newtonsoft.Json.dll文件, 若没有请复制补全即可.
-
 
 2. `.Net FrameWork 初始化失败`
 - 安装[.Net FrameWork 4.0或其他更高的版本](https://www.microsoft.com/zh-cn/download/details.aspx?id=17718)

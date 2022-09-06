@@ -1,4 +1,4 @@
-<p align="center"><a href="https://raw.githubusercontent.com/DouchChunFeng/MoGuDing-WinForm/main/form.png" target="_blank"><img src="https://raw.githubusercontent.com/DouchChunFeng/MoGuDing-WinForm/main/form.png" width="530" alt="图片预览"></a></p>
+<p align="center"><a href="https://raw.githubusercontent.com/DouchChunFeng/MoGuDing-WinForm/main/form.png" target="_blank"><img src="https://raw.githubusercontent.com/DouchChunFeng/MoGuDing-WinForm/main/form.png" width="265" alt="图片预览"></a></p>
 
 # 蘑菇丁/可视化自动打卡窗口
 - [功能](#gn)

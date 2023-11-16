@@ -28,6 +28,7 @@ namespace gxy
         {
             InitializeComponent();
             Control.CheckForIllegalCrossThreadCalls = false;
+            System.Net.ServicePointManager.SecurityProtocol = (System.Net.SecurityProtocolType)192 | (System.Net.SecurityProtocolType)768 | (System.Net.SecurityProtocolType)3072;
         }
         private void Form1_Load(object sender, EventArgs e)
         {
